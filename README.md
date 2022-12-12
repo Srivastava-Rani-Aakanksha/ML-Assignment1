@@ -1,5 +1,5 @@
 
-**Classification Task and Regression Task**
+<h1>Classification Task and Regression Task<h1>
 
 Classification: titanic.csv – We have to predict whether they survived. 
 The Classification Data Set 'Titanic.csv' has 891 rows and 12 columns. 
